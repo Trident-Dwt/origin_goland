@@ -1,3 +1,8 @@
+/*
+1.作业需要修改成自定义一个dataset【array】
+2.然后计算出dataset中所有人的体脂率情况
+3.通过for循环【range】的方式遍历出情况
+*/
 package main
 
 import (
